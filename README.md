@@ -16,3 +16,7 @@ No git criei um repositório chamado AulaGit, público e não marquei o campo "I
 E enviei os arquivos para o repositório AulaGit no github ;)
 
 E por fim adicionei o arquivo README.md e digitei essas instruções nele!
+
+  * A corollary that does not need to be ordered.
+    * This is indented four spaces, because it's two spaces further than the item above.
+    * You might want to consider making a new list.
