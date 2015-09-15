@@ -1,7 +1,5 @@
 <?php include 'header.php'; ?>
-<div class="row">
-	<div class="col-md-10 col-md-offset-1">
-	<div style="margin-top:10em;"></div>
+	<div class="col-md-8 col-md-offset-1" style="margin-top:10em;">
 		<form class="form-horizontal" role="form" method="post" action="index.php">
 		    <div class="form-group">
 		        <label for="name" class="col-sm-2 control-label">Name</label>
@@ -33,7 +31,5 @@
 		        </div>
 		    </div>
 		</form>
-		<div style="margin-top:9em;"></div>
 	</div>
-</div>
 <?php include 'footer.php'; ?>

@@ -132,3 +132,13 @@ body {
     margin-top: 120px;
   }
 }
+
+footer{
+  background-color: #FFD5FF;
+  padding-bottom: 2em;
+  padding-top: 2em;
+  position: fixed;
+      height: 100px;
+      bottom: 0;
+      width: 100%;
+}
