@@ -1,6 +1,6 @@
         <!-- FOOTER -->
         </div>
-              <footer>
+              <footer class="navbar-static-bottom">
                 <p class="pull-right"><a href="#">Voltar para o Topo</a></p>
                 <p>&copy; 2015 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
               </footer>
