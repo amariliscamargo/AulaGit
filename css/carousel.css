@@ -7,7 +7,12 @@ body {
   color: #5a5a5a;
 }
 
-
+* {
+    margin: 0;
+}
+html, body {
+    height: 100%;
+}
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
@@ -137,8 +142,4 @@ footer{
   background-color: #FFD5FF;
   padding-bottom: 2em;
   padding-top: 2em;
-  position: fixed;
-      height: 100px;
-      bottom: 0;
-      width: 100%;
-}
+    }

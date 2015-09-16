@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php require 'header.php'; ?>
 <!-- Carousel
 ================================================== -->
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
