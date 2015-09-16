@@ -13,7 +13,7 @@
       <img class="first-slide" src="images/img1.jpg" alt="First slide">
       <div class="container">
         <div class="carousel-caption">
-          <h1>Example headline.</h1>
+          <h1>Escrevi blip aqui.</h1>
           <p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display properly due to web browser security rules.</p>
           <p><a class="btn btn-lg btn-primary" href="#" role="button">Assine hoje</a></p>
         </div>
