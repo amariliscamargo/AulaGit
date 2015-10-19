@@ -20,7 +20,7 @@
 		                	<span class="icon-bar"></span>
 		                	<span class="icon-bar"></span>
 		              	</button>
-		              	<a class="navbar-brand" href="#">Site Teste da Amarilis</a>
+		              	<a class="navbar-brand" href="index.php">Site Teste da Amarilis</a>
 		            </div>
 		            <div id="navbar" class="navbar-collapse collapse">
 		              	<ul class="nav navbar-nav">
